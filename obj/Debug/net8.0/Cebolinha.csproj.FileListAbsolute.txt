@@ -1,0 +1,14 @@
+C:\Users\ce219\OneDrive\Documentos\Cebolinha\bin\Debug\net8.0\Cebolinha.exe
+C:\Users\ce219\OneDrive\Documentos\Cebolinha\bin\Debug\net8.0\Cebolinha.deps.json
+C:\Users\ce219\OneDrive\Documentos\Cebolinha\bin\Debug\net8.0\Cebolinha.runtimeconfig.json
+C:\Users\ce219\OneDrive\Documentos\Cebolinha\bin\Debug\net8.0\Cebolinha.dll
+C:\Users\ce219\OneDrive\Documentos\Cebolinha\bin\Debug\net8.0\Cebolinha.pdb
+C:\Users\ce219\OneDrive\Documentos\Cebolinha\obj\Debug\net8.0\Cebolinha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ce219\OneDrive\Documentos\Cebolinha\obj\Debug\net8.0\Cebolinha.AssemblyInfoInputs.cache
+C:\Users\ce219\OneDrive\Documentos\Cebolinha\obj\Debug\net8.0\Cebolinha.AssemblyInfo.cs
+C:\Users\ce219\OneDrive\Documentos\Cebolinha\obj\Debug\net8.0\Cebolinha.csproj.CoreCompileInputs.cache
+C:\Users\ce219\OneDrive\Documentos\Cebolinha\obj\Debug\net8.0\Cebolinha.dll
+C:\Users\ce219\OneDrive\Documentos\Cebolinha\obj\Debug\net8.0\refint\Cebolinha.dll
+C:\Users\ce219\OneDrive\Documentos\Cebolinha\obj\Debug\net8.0\Cebolinha.pdb
+C:\Users\ce219\OneDrive\Documentos\Cebolinha\obj\Debug\net8.0\Cebolinha.genruntimeconfig.cache
+C:\Users\ce219\OneDrive\Documentos\Cebolinha\obj\Debug\net8.0\ref\Cebolinha.dll
